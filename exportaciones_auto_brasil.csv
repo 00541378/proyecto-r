@@ -1,0 +1,14 @@
+Fecha,Volumen_Unidades,Valor_Millones_USD,Tipo_Vehiculo,Costo_Logistico_USD,Notas_Metadatos
+2023-01-01,12500,250.5,Sedan,1200,Revision_1
+2023-02-01,13100,265.2,SUV,1250,Revision_1
+2023-03-01,14200,285.0,Sedan,1300,Revision_1
+2023-04-01,11800,240.1,PickUp,1400,Revision_1
+2023-04-01,11800,240.1,PickUp,1400,Duplicado_Error
+2023-05-01,10500,215.3,Sedan,1450,Revision_1
+2023-06-01,15000,305.8,SUV,1200,Revision_1
+2023-07-01,14800,300.2,Sedan,1250,Revision_1
+2023-08-01,8500,175.5,PickUp,1600,Revision_1
+2023-09-01,7200,NA,Sedan,1750,Dato_Perdido
+2023-10-01,9100,188.4,SUV,1500,Revision_1
+2023-11-01,8800,180.2,Sedan,1550,Revision_1
+2023-12-01,5500,115.0,PickUp,2100,Revision_1
